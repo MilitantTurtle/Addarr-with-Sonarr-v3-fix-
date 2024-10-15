@@ -1,6 +1,7 @@
 # ADDARR
 
 Fork with this commit to allow working with Sonarr v3: https://github.com/Waterboy1602/Addarr/commit/78713a86bc1ebfd2ec66a8827f2887a57edfb065
+This probably breaks functionality with Sonarr v4
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/waterboy1602/addarr)](https://hub.docker.com/r/waterboy1602/addarr)
 
