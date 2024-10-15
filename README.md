@@ -1,5 +1,7 @@
 # ADDARR
 
+Fork with this commit to allow working with Sonarr v3: https://github.com/Waterboy1602/Addarr/commit/78713a86bc1ebfd2ec66a8827f2887a57edfb065
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/waterboy1602/addarr)](https://hub.docker.com/r/waterboy1602/addarr)
 
 This is a Telegram Bot made to add series to [Sonarr](https://github.com/Sonarr/Sonarr) or movies to [Radarr](https://github.com/Radarr/Radarr) with a couple of commands. You can also communicate with your [Transmission](https://transmissionbt.com/)/[Sabnzbd](https://sabnzbd.org/) service to change its download speed. The bot uses the InlineKeyboard to let you select the wanted commands, as you can see in the [screenshots](#screenshots).
