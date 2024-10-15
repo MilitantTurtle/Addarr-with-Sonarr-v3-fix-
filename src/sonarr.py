@@ -85,6 +85,7 @@ def buildData(json, path, qualityProfileId, tags, seasonsSelected):
 #    "languageProfileId": getLanguageProfileId(config["languageProfile"]),
     built_data = {
         "qualityProfileId": qualityProfileId,
+        "languageProfileId": config["languageProfileId"],
         "addOptions": {
             "ignoreEpisodesWithFiles": True,
             "ignoreEpisodesWithoutFiles": False,
